@@ -43,6 +43,10 @@ The website is fully responsive and adapts to different screen sizes such as:
 
 ---
 
+## Screenshot
+<img width="1755" height="1820" alt="image" src="https://github.com/user-attachments/assets/59404bfc-44db-439d-808b-68bc8578576c" />
+
+
 ## 📂 Project Structure
 ---
 
